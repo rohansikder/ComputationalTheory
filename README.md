@@ -37,7 +37,7 @@ git clone https://github.com/rohansikder/ComputationalTheory.git
    - A browser window should open automatically. Navigate to the `countdown.ipynb` file within the directory where you cloned the repository and open it.
 
 
-### Viewing the Notebook on GitHub
+### [View countdown.ipynb on GitHub](https://github.com/rohansikder/ComputationalTheory/blob/main/countdown.ipynb)
 - You can also view the notebook directly in the GitHub repository without running it.
    - Navigate to the `countdown.ipynb` file in the GitHub repository.
    - GitHub will render the notebook with all cells and code displayed
@@ -45,9 +45,22 @@ git clone https://github.com/rohansikder/ComputationalTheory.git
 
 ## Implementation Details
 
-- **Random Countdown Game Generator**: Generates a random set of numbers and a target.
-- **Brute Force Solver**: Iteratively tests all combinations of numbers and operations.
-- **Backtracking Solver**: Recursively explores potential solutions, using backtracking.
+ **Random Countdown Game Generator**: Generates a random set of numbers and a target.
+  <hr>
+<div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap;">
+    <div style="text-align: center; padding: 10px;">
+        <img src="https://github.com/rohansikder/ComputationalTheory/assets/80963667/21bb9a77-bb92-4326-aa40-7fd7ea895f3e" alt="Countdown Flowchart" width="300">
+        <p><strong>Backtracking Solver</strong> Iteratively tests all combinations of numbers and operations.</p>
+       <hr>
+    </div>
+    <div style="text-align: center; padding: 10px;">
+        <img src="https://github.com/rohansikder/ComputationalTheory/assets/80963667/5f32efd5-571e-4c29-bd18-8051f547bf5a" alt="Backtracking Flowchart" width="300">
+        <p><strong>Backtracking Solver:</strong> Recursively explores potential solutions, using backtracking.</p>
+    </div>
+</div>
+
+
+
 
 
 ## Performance
